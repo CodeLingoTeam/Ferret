@@ -1,0 +1,3 @@
+tenets:
+- import: 
+- import: codelingo/effective-go/comment-first-word-when-empty
